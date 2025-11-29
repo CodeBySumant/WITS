@@ -3,6 +3,12 @@
 This repository contains C programs for BCA students, created and maintained by Sumant.
 All questions are solved in simple and beginner-friendly C code.
 
+### 📅 Repository Info
+
+Owner: **`CodeBySumant`**
+Created On: 28 November 2025
+Batch/Code: WITS computer institute BCA **` "C language (3:00-4:00)" `**
+
 | File Name      | Description                    |
 | -------------- | ------------------------------ |
 | Question_1.c   | C solution for Question 1      |
@@ -19,10 +25,10 @@ All questions are solved in simple and beginner-friendly C code.
 GCC / MinGW / Turbo C
 Code editor (VS Code, CodeBlocks, Dev-C++, etc.)
 
-**`gcc Question_1.c -o Question_1`**
+**`gcc Question_1.c -o Question_1 `**
 ./Question_1
 
-**`Executable files`**
+**` Executable files `**
 Question_1.exe
 
 ### 🤝 Contributions

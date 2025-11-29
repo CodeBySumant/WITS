@@ -21,7 +21,6 @@ int main()
     x1 = -b + sqrt(d)/2 * a;
     x2 = b - sqrt(d)/2 * a;
 
-    printf("Roots are Real and Different:\n");
     printf("x1 = %f\n x2 = %f\n", x1, x2);
 
     return 0;

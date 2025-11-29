@@ -1,4 +1,4 @@
-###CodeBySumant – BCA C Programming Questions
+### CodeBySumant – BCA C Programming Questions
 
 This repository contains C programs for BCA students, created and maintained by Sumant.
 All questions are solved in simple and beginner-friendly C code.
@@ -25,6 +25,6 @@ Code editor (VS Code, CodeBlocks, Dev-C++, etc.)
 **`Executable files`**
 Question_1.exe
 
-🤝 Contributions
+### 🤝 Contributions
 
 You may add more questions, improve code, or contribute suggestions.
